@@ -29,24 +29,37 @@ Photo Date Organiser is a macOS app designed to help users quickly organise fold
 ⚠️ This is not a signed app. macOS may warn you when opening it. If you’d rather build it yourself, follow the steps below.
 
 Option 1: Using the prebuilt .app (may trigger macOS security prompt)
+
 	1.	Download the latest release from the Releases page.
+
 	2.	Unzip the archive.
+	
 	3.	Right-click the .app file and select Open.
 
 Option 2: Build it yourself using Xcode (recommended)
+
 	1.	Clone or download the project.
+	
 	2.	Open PhotoDateOrganizer.xcodeproj in Xcode.
+	
 	3.	Select your desired target and build the project.
+	
 	4.	Run the app via Xcode or export a release build.
 
 ⸻
 
 ▶️ Usage
+	
 	1.	Launch the app.
+	
 	2.	Drag and drop the source folder (containing photos/videos) into the left panel.
+	
 	3.	Drag and drop the destination folder into the right panel.
+	
 	4.	Select your desired folder structure (e.g. YYYY/MM/DD).
+	
 	5.	Click Organise.
+	
 	6.	The app will scan the files, extract creation dates, and move them to appropriate subfolders.
 
 ⸻
