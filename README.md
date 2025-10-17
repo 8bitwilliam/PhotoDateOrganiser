@@ -2,6 +2,8 @@
 
 Photo Date Organiser is a macOS app designed to help users quickly organise folders of photos and videos by their creation date. It supports a wide range of file types and creates date-based subfolders for easy browsing and archival.
 
+<img width="412" height="443" alt="Screenshot 2025-10-17 at 13 56 02" src="https://github.com/user-attachments/assets/fc0d579c-cfb7-450a-9937-0d3cd180cb07" />
+
 ⸻
 
 ✨ Features
