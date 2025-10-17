@@ -8,12 +8,19 @@ Photo Date Organiser is a macOS app designed to help users quickly organise fold
 
 ✨ Features
 	•	🗂️ Automatic folder sorting — organise photos and videos into:
+	
 	•	YYYY-MM-DD
+	
 	•	YYYY/MM-DD
+	
 	•	YYYY/MM/DD
+	
 	•	📸 Photo support — JPG, PNG, HEIC, GIF, BMP, TIFF, etc.
+	
 	•	🎞️ Video support — MP4, MOV, AVI, MKV, etc.
+	
 	•	🧠 Simple UI — drag-and-drop folders or use the “Select” buttons
+
 
 ⸻
 
