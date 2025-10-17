@@ -47,10 +47,15 @@ Option 2: Build it yourself using Xcode (recommended)
 DestinationFolder/
 
 ├── 2025/
+
 │   └── 10/
+
 │       └── 14/
+
 │           ├── IMG_1234.jpg
+
 │           ├── IMG_1234.mov
+
 │           └── IMG_1234.heic
 
 Each folder corresponds to the selected format. Files are preserved and renamed only if duplicates exist.
